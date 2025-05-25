@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Django
+*.sqlite3
+*.log
+.env
+.env.*
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Virtual env
+venv/
+env/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Static and media (optional, if generated)
+staticfiles/
+media/
+
+# Migrations (optional if generated)
+**/migrations/*.py
+!**/migrations/__init__.py

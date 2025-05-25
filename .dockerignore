@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Git
+.git
+.gitignore
+
+# OS
+.DS_Store
+
+# Env
+.env
+.env.*
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# VSCode
+.vscode/
+
+# Static/media (if generated)
+staticfiles/
+media/
