@@ -132,11 +132,11 @@ You can explore API endpoints using tools like:
 ## 👨‍💻 Author
 
 - **Omer Gokdemir**
-🧑‍💻 Django Developer
+- 🧑‍💻 Django Developer
 
-📩 Reach me on [LinkedIn](https://www.linkedin.com/in/omer-gokdemir/) | [Upwork](https://www.upwork.com/freelancers/~01cf80f9e22cf120e3)
+- 📩 Reach me on [LinkedIn](https://www.linkedin.com/in/omer-gokdemir/) | [Upwork](https://www.upwork.com/freelancers/~01cf80f9e22cf120e3)
 
-GitHub: [@OmerGokdemir](https://github.com/OmerGokdemir)
+- GitHub: [@OmerGokdemir](https://github.com/OmerGokdemir)
 
 ---
 
