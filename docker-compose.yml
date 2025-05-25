@@ -1,6 +1,7 @@
 services:
   db:
     image: postgres:15
+    container_name: custom_db
     environment:
       POSTGRES_DB: custom_api_db
       POSTGRES_USER: postgres
@@ -12,6 +13,7 @@ services:
 
   web:
     build: .
+    container_name: custom_web
     env_file:
       - .env
     command: python manage.py runserver 0.0.0.0:8000
